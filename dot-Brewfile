@@ -16,3 +16,5 @@ cask "cursor"
 cask "ghostty"
 # Break time reminder app
 cask "lookaway"
+# Open source virtual/remote desktop application
+cask "rustdesk"
