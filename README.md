@@ -3,8 +3,7 @@
 ## Commands
 
 ```bash
-# Installs git
-xcode-select --install
+xcode-select --install # Installs git
 git clone https://github.com/err53/dotfiles.git ~/.dotfiles
-cd ~/.dotfiles; make setup
+cd ~/.dotfiles; make setup; make stow
 ```
