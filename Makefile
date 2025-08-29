@@ -23,3 +23,7 @@ stow: ## Restore files with GNU stow
 bundle: ## Dump current global Brewfile (overwrite, with descriptions)
 	@brew bundle dump --global --force --describe
 
+save: ## Commit and push dotfiles
+	@git add .
+	@git commit -m "Update dotfiles"
+	@git push

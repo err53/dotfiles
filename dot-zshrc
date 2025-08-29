@@ -1,4 +1,6 @@
-alias vim="nvim"
-alias vi="nvim"
+alias vim='nvim'
+alias vi='nvim'
+
+alias dotfiles="command make -C $HOME/.dotfiles"
 
 eval "$(starship init zsh)"
