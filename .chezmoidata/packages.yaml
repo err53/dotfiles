@@ -1,0 +1,13 @@
+packages:
+  darwin:
+    brews:
+      - 'htop'
+      - 'neovim'
+      - 'starship'
+      - 'uv'
+    casks:
+      - '1password'
+      - 'cursor'
+      - 'ghostty'
+      - 'lookaway'
+      - 'rustdesk'
