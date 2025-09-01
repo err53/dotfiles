@@ -1,13 +1,20 @@
 packages:
   darwin:
     brews:
-      - 'btop'
-      - 'neovim'
+      # basic cli tools
       - 'starship'
+      - 'btop'
+      # nvim stuff
+      - 'neovim'
+      - 'ripgrep'
+      - 'ffind'
+      # devtools
       - 'uv'
     casks:
-      - '1password'
+      # devtools
       - 'cursor'
       - 'ghostty'
+      # utils
+      - '1password'
       - 'lookaway'
       - 'rustdesk'
