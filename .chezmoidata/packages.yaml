@@ -1,7 +1,7 @@
 packages:
   darwin:
     brews:
-      - 'htop'
+      - 'btop'
       - 'neovim'
       - 'starship'
       - 'uv'
