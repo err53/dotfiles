@@ -135,3 +135,6 @@ esac
 
 # opencode
 export PATH=/home/jason/.opencode/bin:$PATH
+
+# starship
+eval "$(starship init bash)"
