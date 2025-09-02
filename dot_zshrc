@@ -1,4 +1,6 @@
-alias vim='nvim'
+EDITOR='nvim'
+
 alias vi='nvim'
+alias vim='nvim'
 
 eval "$(starship init zsh)"
