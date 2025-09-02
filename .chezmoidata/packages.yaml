@@ -19,3 +19,4 @@ packages:
       - '1password'
       - 'lookaway'
       - 'rustdesk'
+      - 'rectangle'
